@@ -5,6 +5,20 @@
 #projects {
   background-color: #a2e1fa;
 }
-section {
+#skills {
+  padding-top: 15rem;
+}
+.carousel-item {
+  padding-left: 15rem;
+  padding-right: 15rem;
+}
+.carousel-caption {
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+#contact {
+  background-color: #a2e1fa;
+}
+#section {
   padding-top: 5rem;
 }
