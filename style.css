@@ -1,24 +1,29 @@
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 7rem;
   background-color: #a2e1fa;
 }
+#about {
+  padding-top: 7rem;
+}
 #projects {
+  padding-top: 7rem;
   background-color: #a2e1fa;
 }
 #skills {
-  padding-top: 15rem;
+  padding-top: 7rem;
 }
 .carousel-item {
-  padding-left: 15rem;
-  padding-right: 15rem;
+  padding-left: 7rem;
+  padding-right: 7rem;
 }
 .carousel-caption {
   padding-left: 10rem;
   padding-right: 10rem;
 }
 #contact {
+  padding-top: 7rem;
   background-color: #a2e1fa;
 }
 #section {
-  padding-top: 5rem;
+  padding-top: 15rem;
 }
